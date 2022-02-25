@@ -6,7 +6,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     lang: 'en-US',
     title: 'Sam Pixel York',
     description: 'Personal website',
-    base: '/blog/',
+    base: '/',
 
     // theme and its config
     theme: '@vuepress/theme-default',
